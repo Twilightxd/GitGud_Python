@@ -2,6 +2,7 @@
 consists of Super basic python programming codes
 - to get a clear understanding of python syntax
 - indents given for clarification; consider using proper indenattion during actual codes
+- uploaded a notepad file under .py extension
 '''
 
 # print name and age
@@ -12,12 +13,10 @@ consists of Super basic python programming codes
   print("Hello Twilight!  Welcome to GitGud Series - Python")
   print(name, age, num)
 
-
 # swapping numbers with temp var
   num1 = 10
   num2 = 50
   print(num1, num2)
-  
   temp = num1
   num1 = num2
   num2 = temp
@@ -27,7 +26,6 @@ consists of Super basic python programming codes
   a = 5
   b = 10
   print(a, b)
-
   a = a+b
   b = a-b
   a = a-b
