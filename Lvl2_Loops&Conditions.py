@@ -5,6 +5,7 @@ consists of basic loops & conditions python programming codes
 - indents given for clarification; consider using proper indenattion during actual codes
 ''' 
 
+#test from vscode
 #how to user input in python
 name = input("Enter your name: ")
 num = int(input("Enter your lucky number: "))
