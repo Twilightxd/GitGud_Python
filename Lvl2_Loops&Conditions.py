@@ -6,7 +6,7 @@ consists of basic loops & conditions python programming codes
 ''' 
 
 #how to user input in python
-name = input("Enter your name: ")
+#name = input("Enter your name: ")
 num = int(input("Enter your lucky number: "))
 f_num = float(input("Enter a floating-point number: "))
 num1, num2 = input("Enter two values separated by space: ").split()
